@@ -12,7 +12,8 @@
 
 list_files() {
 cat <<EOF
-etc/hosts
+etc/security/cacerts/5ed36f99.0
+etc/security/cacerts/e5662767.0
 EOF
 }
 
